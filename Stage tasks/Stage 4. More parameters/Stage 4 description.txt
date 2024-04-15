@@ -19,7 +19,7 @@ more in the Wikipedia article on SMOG. The article says that at least 30 sentenc
 properly. Don't pay attention to this, just keep it in mind when you use this index in real life. As in the previous example, 
 the grade level is calculated here, so to get the age of a person you need to use the table from the first link.
 
-score = 1.043  * ( √ (polysyllables * {30 / sentences}} + 3.1291
+score = 1.043  * ( √ (polysyllables * (30 / sentences))) + 3.1291
 
 The next one is Coleman–Liau index. The formula is given below. For more information, read the article on Wikipedia. L is the 
 average number of characters per 100 words and S is the average number of sentences per 100 words. Like all other indices, 
